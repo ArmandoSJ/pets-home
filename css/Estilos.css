@@ -1,0 +1,31 @@
+/* encabezado */
+.navbar{
+    margin-bottom: 0;
+    color:darkgray;
+    
+}
+.jumbotron-ms{
+    background: #AED6F1;
+    color:crimson;
+    padding:20px 0;
+    background: url('../img/mascota.jpg') no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.carru{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom:1px solid #999;
+}
+#map {
+    width: 180%;
+    height: 300px;
+          
+}
+html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+}
+
